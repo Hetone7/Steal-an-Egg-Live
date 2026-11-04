@@ -1,0 +1,23 @@
+{
+  "alertMessage": "🚨 Secret T-Rex Egg spawned in Prehistoric! 🚨",
+  "targetTimerSeconds": 1688,
+  "targetName": "Butterfly Bloom (Est.)",
+  "spawns": [
+    { "name": "Royal Sky Whale", "tier": "Divine", "zone": "Enchanted Forest", "timeAgo": "3h 34m ago" },
+    { "name": "World Burner", "tier": "Divine", "zone": "Demons - $58/s", "timeAgo": "15h 34m ago" },
+    { "name": "Voidseer Pumpkin", "tier": "Divine", "zone": "Abandoned Manor", "timeAgo": "2d ago" },
+    { "name": "Unicorn", "tier": "Cosmic", "zone": "Cosmic - $18/s", "timeAgo": "4d ago" }
+  ],
+  "metrics": [
+    { "label": "Last Divine Prediction Success Rate", "percentage": 78 },
+    { "label": "Royal Sky Whale Spawn Confidence Index", "percentage": 67 }
+  ],
+  "marketValues": [
+    { "icon": "🦖", "val": "120k" },
+    { "icon": "🐳", "val": "95k" },
+    { "icon": "🦄", "val": "88k" },
+    { "icon": "🎃", "val": "45k" },
+    { "icon": "🦊", "val": "32k" },
+    { "icon": "🦅", "val": "28k" }
+  ]
+}
