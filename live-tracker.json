@@ -1,23 +1,61 @@
 {
-  "alertMessage": "🚨 Secret T-Rex Egg spawned in Prehistoric! 🚨",
+  "alertMessage": "\ud83d\udea8 LIVE UPDATE: Royal Sky Whale detected! \ud83d\udea8",
   "targetTimerSeconds": 1688,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
-    { "name": "Royal Sky Whale", "tier": "Divine", "zone": "Enchanted Forest", "timeAgo": "3h 34m ago" },
-    { "name": "World Burner", "tier": "Divine", "zone": "Demons - $58/s", "timeAgo": "15h 34m ago" },
-    { "name": "Voidseer Pumpkin", "tier": "Divine", "zone": "Abandoned Manor", "timeAgo": "2d ago" },
-    { "name": "Unicorn", "tier": "Cosmic", "zone": "Cosmic - $18/s", "timeAgo": "4d ago" }
+    {
+      "name": "Royal Sky Whale",
+      "tier": "Divine",
+      "zone": "Enchanted Forest",
+      "timeAgo": "Just Now"
+    },
+    {
+      "name": "World Burner",
+      "tier": "Divine",
+      "zone": "Demons - $58/s",
+      "timeAgo": "15h ago"
+    },
+    {
+      "name": "Voidseer Pumpkin",
+      "tier": "Divine",
+      "zone": "Abandoned Manor",
+      "timeAgo": "2d ago"
+    }
   ],
   "metrics": [
-    { "label": "Last Divine Prediction Success Rate", "percentage": 78 },
-    { "label": "Royal Sky Whale Spawn Confidence Index", "percentage": 67 }
+    {
+      "label": "Data Feed Synchronization",
+      "percentage": 100
+    },
+    {
+      "label": "Algorithm Confidence Metric",
+      "percentage": 94
+    }
   ],
   "marketValues": [
-    { "icon": "🦖", "val": "120k" },
-    { "icon": "🐳", "val": "95k" },
-    { "icon": "🦄", "val": "88k" },
-    { "icon": "🎃", "val": "45k" },
-    { "icon": "🦊", "val": "32k" },
-    { "icon": "🦅", "val": "28k" }
+    {
+      "icon": "\ud83e\udd96",
+      "val": "125k"
+    },
+    {
+      "icon": "\ud83d\udc33",
+      "val": "98k"
+    },
+    {
+      "icon": "\ud83e\udd84",
+      "val": "92k"
+    },
+    {
+      "icon": "\ud83c\udf83",
+      "val": "45k"
+    },
+    {
+      "icon": "\ud83e\udd8a",
+      "val": "32k"
+    },
+    {
+      "icon": "\ud83e\udd85",
+      "val": "28k"
+    }
   ]
 }
