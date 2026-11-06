@@ -1,8 +1,14 @@
 {
-  "alertMessage": "\ud83d\udea8 Guard Alert - Titan Temple",
-  "targetTimerSeconds": 1283,
+  "alertMessage": "\ud83d\udea8 Guard Alert - Cherry Blossom",
+  "targetTimerSeconds": 1268,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Cherry Blossom",
+      "timeAgo": "Just Now"
+    },
     {
       "name": "Guard Alert",
       "tier": "Area",
@@ -55,12 +61,6 @@
       "name": "Event Board",
       "tier": "Event",
       "zone": "World",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
-      "zone": "Unknown",
       "timeAgo": "Just Now"
     }
   ],
