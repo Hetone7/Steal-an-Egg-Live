@@ -1,6 +1,6 @@
 {
   "alertMessage": "\ud83d\udea8 Guard Alert - Cherry Blossom",
-  "targetTimerSeconds": 1028,
+  "targetTimerSeconds": 1013,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
     {
