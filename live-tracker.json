@@ -1,8 +1,14 @@
 {
-  "alertMessage": "\ud83d\udea8 Guard Alert - Cosmic",
-  "targetTimerSeconds": 1493,
+  "alertMessage": "\ud83d\udea8 Guard Alert - Light / Dark",
+  "targetTimerSeconds": 1478,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Light / Dark",
+      "timeAgo": "Just Now"
+    },
     {
       "name": "Guard Alert",
       "tier": "Area",
@@ -49,12 +55,6 @@
       "name": "Guard Alert",
       "tier": "Area",
       "zone": "Titan Temple",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
-      "zone": "Cherry Blossom",
       "timeAgo": "Just Now"
     },
     {
