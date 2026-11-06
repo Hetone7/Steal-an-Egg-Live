@@ -1,8 +1,14 @@
 {
   "alertMessage": "\ud83d\udea8 Guard Alert - Cherry Blossom",
-  "targetTimerSeconds": 1643,
+  "targetTimerSeconds": 1628,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Cherry Blossom",
+      "timeAgo": "Just Now"
+    },
     {
       "name": "Guard Alert",
       "tier": "Area",
