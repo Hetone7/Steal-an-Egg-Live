@@ -1,25 +1,13 @@
 {
-  "alertMessage": "\ud83d\udea8 LIVE UPDATE: Royal Sky Whale detected! \ud83d\udea8",
+  "alertMessage": "\ud83d\udfe2 Tracker Online",
   "targetTimerSeconds": 1688,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
     {
-      "name": "Royal Sky Whale",
-      "tier": "Divine",
-      "zone": "Enchanted Forest",
+      "name": "Tracker Online",
+      "tier": "System",
+      "zone": "Startup",
       "timeAgo": "Just Now"
-    },
-    {
-      "name": "World Burner",
-      "tier": "Divine",
-      "zone": "Demons - $58/s",
-      "timeAgo": "15h ago"
-    },
-    {
-      "name": "Voidseer Pumpkin",
-      "tier": "Divine",
-      "zone": "Abandoned Manor",
-      "timeAgo": "2d ago"
     }
   ],
   "metrics": [
