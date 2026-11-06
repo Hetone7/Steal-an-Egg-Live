@@ -1,8 +1,14 @@
 {
   "alertMessage": "\ud83d\udea8 Guard Alert - Unknown",
-  "targetTimerSeconds": 1553,
+  "targetTimerSeconds": 1538,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Unknown",
+      "timeAgo": "Just Now"
+    },
     {
       "name": "Guard Alert",
       "tier": "Area",
