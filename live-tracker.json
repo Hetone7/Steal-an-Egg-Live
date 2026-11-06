@@ -1,8 +1,14 @@
 {
-  "alertMessage": "\ud83c\udf89 Event Activity",
-  "targetTimerSeconds": 1628,
+  "alertMessage": "\ud83d\udea8 Guard Alert - Unknown",
+  "targetTimerSeconds": 1613,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Unknown",
+      "timeAgo": "Just Now"
+    },
     {
       "name": "Event Board",
       "tier": "Event",
