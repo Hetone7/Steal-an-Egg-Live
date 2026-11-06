@@ -1,8 +1,14 @@
 {
-  "alertMessage": "\ud83d\udfe2 Tracker Online",
-  "targetTimerSeconds": 1673,
+  "alertMessage": "\ud83d\udea8 Guard Alert - Cherry Blossom",
+  "targetTimerSeconds": 1658,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Cherry Blossom",
+      "timeAgo": "Just Now"
+    },
     {
       "name": "Tracker Online",
       "tier": "System",
