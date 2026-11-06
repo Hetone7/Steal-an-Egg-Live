@@ -1,6 +1,6 @@
 {
   "alertMessage": "\ud83d\udea8 Guard Alert - Cosmic",
-  "targetTimerSeconds": 593,
+  "targetTimerSeconds": 578,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
     {
