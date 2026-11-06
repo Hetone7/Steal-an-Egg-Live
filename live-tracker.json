@@ -1,8 +1,20 @@
 {
-  "alertMessage": "\ud83d\udea8 Guard Alert - Light / Dark",
-  "targetTimerSeconds": 1658,
+  "alertMessage": "\ud83d\udea8 Guard Alert - Cherry Blossom",
+  "targetTimerSeconds": 1643,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Cherry Blossom",
+      "timeAgo": "Just Now"
+    },
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Titan Temple",
+      "timeAgo": "Just Now"
+    },
     {
       "name": "Guard Alert",
       "tier": "Area",
