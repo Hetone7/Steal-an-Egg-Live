@@ -1,6 +1,6 @@
 {
   "alertMessage": "\ud83d\udea8 Guard Alert - Unknown",
-  "targetTimerSeconds": 443,
+  "targetTimerSeconds": 428,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
     {
