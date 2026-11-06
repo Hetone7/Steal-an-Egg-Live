@@ -1,8 +1,14 @@
 {
-  "alertMessage": "\ud83d\udea8 Guard Alert - Unknown",
+  "alertMessage": "\ud83d\udea8 Guard Alert - Cosmic",
   "targetTimerSeconds": -7,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Cosmic",
+      "timeAgo": "Just Now"
+    },
     {
       "name": "Guard Alert",
       "tier": "Area",
@@ -49,12 +55,6 @@
       "name": "Guard Alert",
       "tier": "Area",
       "zone": "Cherry Blossom",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
-      "zone": "Enchanted Forest",
       "timeAgo": "Just Now"
     },
     {
