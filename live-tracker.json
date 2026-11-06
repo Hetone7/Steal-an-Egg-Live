@@ -1,8 +1,14 @@
 {
-  "alertMessage": "\ud83d\udfe2 Tracker Online",
-  "targetTimerSeconds": 1688,
+  "alertMessage": "\ud83d\udea8 Guard Alert - Light / Dark",
+  "targetTimerSeconds": 1673,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
+    {
+      "name": "Guard Alert",
+      "tier": "Area",
+      "zone": "Light / Dark",
+      "timeAgo": "Just Now"
+    },
     {
       "name": "Tracker Online",
       "tier": "System",
