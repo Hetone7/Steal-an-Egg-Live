@@ -1,6 +1,6 @@
 {
   "alertMessage": "\ud83d\udea8 Guard Alert - Enchanted Forest",
-  "targetTimerSeconds": 98,
+  "targetTimerSeconds": 83,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
     {
