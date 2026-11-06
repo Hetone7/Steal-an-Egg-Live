@@ -1,60 +1,18 @@
 {
-  "alertMessage": "\ud83d\udea8 Guard Alert - Unknown",
-  "targetTimerSeconds": 1523,
+  "alertMessage": "\ud83d\udea8 Guard Alert - Cherry Blossom",
+  "targetTimerSeconds": 1688,
   "targetName": "Butterfly Bloom (Est.)",
   "spawns": [
     {
       "name": "Guard Alert",
       "tier": "Area",
-      "zone": "Unknown",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
-      "zone": "Unknown",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
-      "zone": "Unknown",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
-      "zone": "Unknown",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
-      "zone": "Unknown",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
       "zone": "Cherry Blossom",
       "timeAgo": "Just Now"
     },
     {
       "name": "Guard Alert",
       "tier": "Area",
-      "zone": "Cherry Blossom",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
-      "zone": "Titan Temple",
-      "timeAgo": "Just Now"
-    },
-    {
-      "name": "Guard Alert",
-      "tier": "Area",
-      "zone": "Light / Dark",
+      "zone": "Cosmic",
       "timeAgo": "Just Now"
     },
     {
